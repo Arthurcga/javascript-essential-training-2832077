@@ -7,3 +7,18 @@
  * - Find an object that has another object inside of it to create a nested object.
  * - Test your objects in the browser console by accessing the entire object and its specific properties.
  */
+
+
+const waterbottle = {
+    name: "working bottle",
+    volume: 2,
+    color: blue,
+    lidOpen: false,
+    insede:{
+        water: 1,
+    },
+
+
+ console.log("wtf:", watterbottle)
+
+};
